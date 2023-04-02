@@ -5,21 +5,21 @@
   <test name="TestOnChrome">
   <parameter name="browserName" value="chrome"></parameter>
     <classes>
-      <class name="test.TestNGMultiBrowserDemo"/>
+      <class name="com.e2eTests.step_definitions.LoginStepDefinition"/>
     </classes>
   </test>
   
   <test name="TestOnFirefox">
   <parameter name="browserName" value="firefox"></parameter>
     <classes>
-      <class name="test.TestNGMultiBrowserDemo"/>
+      <class name="com.e2eTests.step_definitions.LoginStepDefinition"/>
     </classes>
   </test>
   
   <test name="TestOnEdge">
   <parameter name="browserName" value="edge"></parameter>
     <classes>
-      <class name="test.TestNGMultiBrowserDemo"/>
+      <class name="com.e2eTests.step_definitions.LoginStepDefinition"/>
     </classes>
   </test>
   
