@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-04-02T02:07:41 CEST" name="Suite" finished-at="2023-04-02T02:08:29 CEST" duration-ms="48571">
+  <suite started-at="2023-04-02T02:12:06 CEST" name="Suite" finished-at="2023-04-02T02:12:51 CEST" duration-ms="45379">
     <groups>
     </groups>
-    <test started-at="2023-04-02T02:07:41 CEST" name="TestOnChrome" finished-at="2023-04-02T02:08:01 CEST" duration-ms="20054">
+    <test started-at="2023-04-02T02:12:06 CEST" name="TestOnChrome" finished-at="2023-04-02T02:12:22 CEST" duration-ms="16409">
       <class name="com.e2eTests.step_definitions.LoginStepDefinition">
-        <test-method is-config="true" signature="setupTest(java.lang.String)[pri:0, instance:com.e2eTests.step_definitions.LoginStepDefinition@291ae]" started-at="2023-04-02T02:07:41 CEST" name="setupTest" finished-at="2023-04-02T02:07:56 CEST" duration-ms="15298" status="PASS">
+        <test-method is-config="true" signature="setupTest(java.lang.String)[pri:0, instance:com.e2eTests.step_definitions.LoginStepDefinition@291ae]" started-at="2023-04-02T02:12:06 CEST" name="setupTest" finished-at="2023-04-02T02:12:19 CEST" duration-ms="13028" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -18,19 +18,19 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setupTest -->
-        <test-method signature="submitToApp()[pri:0, instance:com.e2eTests.step_definitions.LoginStepDefinition@291ae]" started-at="2023-04-02T02:07:56 CEST" name="submitToApp" finished-at="2023-04-02T02:08:01 CEST" duration-ms="4672" status="PASS">
+        <test-method signature="submitToApp()[pri:0, instance:com.e2eTests.step_definitions.LoginStepDefinition@291ae]" started-at="2023-04-02T02:12:19 CEST" name="submitToApp" finished-at="2023-04-02T02:12:22 CEST" duration-ms="3288" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- submitToApp -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.e2eTests.step_definitions.LoginStepDefinition@291ae]" started-at="2023-04-02T02:08:01 CEST" name="tearDown" finished-at="2023-04-02T02:08:01 CEST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.e2eTests.step_definitions.LoginStepDefinition@291ae]" started-at="2023-04-02T02:12:22 CEST" name="tearDown" finished-at="2023-04-02T02:12:22 CEST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.e2eTests.step_definitions.LoginStepDefinition -->
     </test> <!-- TestOnChrome -->
-    <test started-at="2023-04-02T02:07:41 CEST" name="TestOnEdge" finished-at="2023-04-02T02:08:16 CEST" duration-ms="34946">
+    <test started-at="2023-04-02T02:12:06 CEST" name="TestOnEdge" finished-at="2023-04-02T02:12:44 CEST" duration-ms="38427">
       <class name="com.e2eTests.step_definitions.LoginStepDefinition">
-        <test-method is-config="true" signature="setupTest(java.lang.String)[pri:0, instance:com.e2eTests.step_definitions.LoginStepDefinition@158da8e]" started-at="2023-04-02T02:07:41 CEST" name="setupTest" finished-at="2023-04-02T02:08:11 CEST" duration-ms="30445" status="PASS">
+        <test-method is-config="true" signature="setupTest(java.lang.String)[pri:0, instance:com.e2eTests.step_definitions.LoginStepDefinition@158da8e]" started-at="2023-04-02T02:12:06 CEST" name="setupTest" finished-at="2023-04-02T02:12:40 CEST" duration-ms="33922" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -41,19 +41,19 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setupTest -->
-        <test-method signature="submitToApp()[pri:0, instance:com.e2eTests.step_definitions.LoginStepDefinition@158da8e]" started-at="2023-04-02T02:08:11 CEST" name="submitToApp" finished-at="2023-04-02T02:08:16 CEST" duration-ms="4450" status="PASS">
+        <test-method signature="submitToApp()[pri:0, instance:com.e2eTests.step_definitions.LoginStepDefinition@158da8e]" started-at="2023-04-02T02:12:40 CEST" name="submitToApp" finished-at="2023-04-02T02:12:44 CEST" duration-ms="4456" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- submitToApp -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.e2eTests.step_definitions.LoginStepDefinition@158da8e]" started-at="2023-04-02T02:08:16 CEST" name="tearDown" finished-at="2023-04-02T02:08:16 CEST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.e2eTests.step_definitions.LoginStepDefinition@158da8e]" started-at="2023-04-02T02:12:44 CEST" name="tearDown" finished-at="2023-04-02T02:12:44 CEST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.e2eTests.step_definitions.LoginStepDefinition -->
     </test> <!-- TestOnEdge -->
-    <test started-at="2023-04-02T02:07:41 CEST" name="TestOnFirefox" finished-at="2023-04-02T02:08:29 CEST" duration-ms="48571">
+    <test started-at="2023-04-02T02:12:06 CEST" name="TestOnFirefox" finished-at="2023-04-02T02:12:51 CEST" duration-ms="45379">
       <class name="com.e2eTests.step_definitions.LoginStepDefinition">
-        <test-method is-config="true" signature="setupTest(java.lang.String)[pri:0, instance:com.e2eTests.step_definitions.LoginStepDefinition@5e0826e7]" started-at="2023-04-02T02:07:41 CEST" name="setupTest" finished-at="2023-04-02T02:08:28 CEST" duration-ms="46890" status="PASS">
+        <test-method is-config="true" signature="setupTest(java.lang.String)[pri:0, instance:com.e2eTests.step_definitions.LoginStepDefinition@5e0826e7]" started-at="2023-04-02T02:12:06 CEST" name="setupTest" finished-at="2023-04-02T02:12:50 CEST" duration-ms="44009" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -64,11 +64,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setupTest -->
-        <test-method signature="submitToApp()[pri:0, instance:com.e2eTests.step_definitions.LoginStepDefinition@5e0826e7]" started-at="2023-04-02T02:08:28 CEST" name="submitToApp" finished-at="2023-04-02T02:08:29 CEST" duration-ms="1629" status="PASS">
+        <test-method signature="submitToApp()[pri:0, instance:com.e2eTests.step_definitions.LoginStepDefinition@5e0826e7]" started-at="2023-04-02T02:12:50 CEST" name="submitToApp" finished-at="2023-04-02T02:12:51 CEST" duration-ms="1322" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- submitToApp -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.e2eTests.step_definitions.LoginStepDefinition@5e0826e7]" started-at="2023-04-02T02:08:29 CEST" name="tearDown" finished-at="2023-04-02T02:08:29 CEST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.e2eTests.step_definitions.LoginStepDefinition@5e0826e7]" started-at="2023-04-02T02:12:51 CEST" name="tearDown" finished-at="2023-04-02T02:12:51 CEST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
